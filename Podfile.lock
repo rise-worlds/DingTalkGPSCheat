@@ -1,0 +1,20 @@
+PODS:
+  - CaptainHook (2.0.0)
+  - DingtalkPod (1.0.2):
+    - CaptainHook
+
+DEPENDENCIES:
+  - DingtalkPod
+
+SPEC REPOS:
+  https://github.com/AloneMonkey/MonkeyDevSpecs.git:
+    - CaptainHook
+    - DingtalkPod
+
+SPEC CHECKSUMS:
+  CaptainHook: 3889d18beaf6a87b19c9bb47f5c8348a0b275036
+  DingtalkPod: 8a629715e388c8868556a4739763f0832c149707
+
+PODFILE CHECKSUM: 625b4a4ea9781e69afc364d342e7c716e2034f0e
+
+COCOAPODS: 1.11.2
