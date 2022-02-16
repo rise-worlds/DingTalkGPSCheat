@@ -37,3 +37,6 @@ Pods/
 
 .DS_Store
 .vscode
+/test/TargetApp/DingTalk.app/
+/test/tmp/
+/LatestBuild
